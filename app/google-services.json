@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "206955274103",
+    "firebase_url": "https://taskapp-7b3f9-default-rtdb.firebaseio.com",
+    "project_id": "taskapp-7b3f9",
+    "storage_bucket": "taskapp-7b3f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206955274103:android:ced80cf5a09ca37d8f8b72",
+        "android_client_info": {
+          "package_name": "com.jaaveeth.taskapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu_cW541Voe9vQ9pnZRfNSm6nqzM4cAZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
